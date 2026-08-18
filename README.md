@@ -1,5 +1,5 @@
 
-![logo](../repositories/NELLY/logo/logo.png)
+![logo](logo/logo.png)
 
 
 
@@ -12,7 +12,7 @@ NELLY was designed to address a current limitation of these
 approaches: the need to couple accurate prediction with patient-level molecular interpretation.
 NELLY uses a drug-conditioned gene-weighting mechanism that modulates transcriptomic features directly for each sample-drug pair. This preserved a direct correspondence between model-derived weights and input genes, enabling patient-level investigation of molecular features associated with predicted drug response. NELLY therefore extends drug response prediction by providing a fine-grained interpretability layer, addressing an important requirement for predictive precision oncology.
 
-To see an overview of this study, have a look at our [poster](../repositories/NELLY/poster/ECCB_26.pdf) presented at the 25th European Conference on Computational Biology
+To see an overview of this study, have a look at our [poster](poster/ECCB_26.pdf) presented at the 25th European Conference on Computational Biology
 
 
 # Setup
